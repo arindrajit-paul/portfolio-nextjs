@@ -64,7 +64,7 @@ export default function AboutPage() {
           ))}
         </div>
 
-        <h2 className="text-2xl font-semibold text-gray-800 mt-10">
+        {/* <h2 className="text-2xl font-semibold text-gray-800 mt-10">
           Things I am Not So Good At (Yet!)
         </h2>
         <div className="mt-4 space-y-4">
@@ -82,7 +82,7 @@ export default function AboutPage() {
               </ul>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
 
       {/* Personal Touch */}

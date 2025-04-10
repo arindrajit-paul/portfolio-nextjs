@@ -1,45 +1,30 @@
 {
-  "intro": "I'm a PhD candidate exploring how Hindu goddess devotion reshapes gender norms in Bangladeshi communities. My work blends devotional poetry, performance, and embodied spirituality through postcolonial and gendered lenses.",
+  "intro": "I'm a computer science graduate student at University of Colorado - Boulder with a focus on applied machine learning and data-driven problem solving. My background spans research in game theory, language model fairness, and scalable data pipelines — all grounded in real-world impact. I’ve worked with cross-functional teams on everything from probabilistic modeling to full-stack development, and I’m always looking for ways to bridge the gap between technology and meaningful outcomes. I’m currently looking for opportunities in data science and software engineering.",
   "academicBackground": [
     {
-      "title": "PhD in South Asian Studies",
-      "institution": "[University Name]",
-      "location": "[City, Country]",
-      "startYear": "20XX",
-      "endYear": "Present",
-      "note": "Dissertation: “Redefining Gender Norms through Hindu Goddess Altars in the Bangladeshi Hindu Community.”"
+      "title": "MS in Computer Science",
+      "institution": "University of Colorado - Boulder",
+      "location": "[Boulder, United States]",
+      "startYear": "2023",
+      "endYear": "Present"
     },
     {
-      "title": "MA in [Field]",
-      "institution": "[University Name]",
-      "location": "[City, Country]",
-      "startYear": "20XX",
-      "endYear": "20XX"
-    },
-    {
-      "title": "BA in [Field]",
-      "institution": "[University Name]",
-      "location": "[City, Country]",
-      "startYear": "20XX",
-      "endYear": "20XX"
+      "title": "BS in Computer Science",
+      "institution": "Universiti Kebangsaan Malaysia (UKM)",
+      "location": "[Selangor, Malaysia]",
+      "startYear": "2018",
+      "endYear": "2021"
     }
-  ],
-  "researchInterests": [
-    "Devotional poetry and its aesthetic/emotional power",
-    "Gender and religious identity in Bengali culture",
-    "Kazi Nazrul Islam’s contributions to religious pluralism",
-    "Shyama Sangeet and Goddess Kālī traditions",
-    "Embodiment and performativity in spiritual practice"
   ],
   "skills": {
     "prettyGoodAt": [
       {
-        "label": "Languages",
-        "items": ["TypeScript", "JavaScript", "Python"]
+        "label": "Programming Languages",
+        "items": ["Python", "R", "SQL"]
       },
       {
         "label": "Frameworks & Libraries",
-        "items": ["Next.js", "Tailwind CSS", "React", "Framer Motion"]
+        "items": ["Pandas", "NumPy", "Scikit-learn", "PyTorch"]
       }
     ],
     "gettingThere": [
@@ -53,5 +38,5 @@
       }
     ]
   },
-  "personalTouch": "Outside of research, I enjoy collecting devotional music, learning about ritual aesthetics, and building digital tools that support community storytelling. I'm passionate about blending tradition with modern platforms to create new possibilities for cultural memory and expression."
+  "personalTouch": "Outside of work, I enjoy photographing nature and playing video games. I’m also really into music — if I hadn’t gone into tech, I’d probably be a guitarist."
 }
