@@ -12,7 +12,7 @@ export default function ProjectsPage() {
       <div className="text-center mb-12">
         <h1 className="text-3xl font-bold text-gray-900">Projects</h1>
         <p className="mt-2 text-gray-600">
-          A curated selection of my creative, technical, and academic projects.
+          A curated selection of my personal and academic projects.
         </p>
       </div>
 

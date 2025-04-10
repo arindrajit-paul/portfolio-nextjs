@@ -3,21 +3,49 @@
     "title": "Portfolio Website",
     "description": "A personal portfolio built with Next.js, Tailwind CSS, and TypeScript.",
     "image": "/project-images/placeholder.svg",
-    "link": "/projects/portfolio",
-    "tags": ["TypeScript", "Next.js", "Frontend"]
+    "link": "https://github.com/arindrajit-paul/portfolio-nextjs",
+    "tags": ["TypeScript", "Next.js", "Vercel", "Frontend"]
   },
   {
-    "title": "Academic Writing Archive",
-    "description": "A digital collection of research and papers on devotional poetry and gender.",
+    "title": "Mitigating Socio-Demographic Bias in Language-Based Machine Learning Models of Depression",
+    "description": "An end-to-end ML project to classify and estimate depression severity.",
     "image": "/project-images/placeholder.svg",
-    "link": "/projects/academic-archive",
-    "tags": ["Academic", "Poetry", "Archive"]
+    "link": "https://github.com/cekcreator/Mitigating-socio-demographic-bias",
+    "tags": ["Machine Learning", "Python", "Transformers"]
   },
   {
-    "title": "Goddess Iconography Viewer",
-    "description": "An experimental visual tool for exploring representations of Hindu goddesses.",
+    "title": "Comparison of Strategies that Estimate the Probability of Head of a Biased Coin",
+    "description": "A programmatic approach to study and compare different strategies that estimate the probability of head for a biased coin.",
     "image": "/project-images/placeholder.svg",
-    "link": "/projects/goddess-iconography",
-    "tags": ["Research", "Visualization", "React"]
+    "link": "https://github.com/arindrajit-paul/is-game-theory",
+    "tags": ["Research", "Visualization", "Probability", "Python"]
+  },
+  {
+    "title": "CSCI 5922: Deep Learning & Neural Network",
+    "description": "A collection of all the problem set and lab assignment solutions for the course CSCI 5922: Deep Learning & Neural Network.",
+    "image": "/project-images/placeholder.svg",
+    "link": "https://github.com/arindrajit-paul/cs5922-nndl",
+    "tags": ["Python", "Visualization", "PyTorch", "Research"]
+  },
+  {
+    "title": "Census Income Data Analysis",
+    "description": "Key insights from analyzing 1996 Census Income data from US Census Bureau Resources.",
+    "image": "/project-images/placeholder.svg",
+    "link": "https://github.com/arindrajit-paul/census-income",
+    "tags": ["Python", "Visualization", "PyTorch", "NumPy", "Research"]
+  },
+  {
+    "title": "QuickRent Rental System",
+    "description": "An online rental system platform built using React and Flask (part of the course Datacenter Scale Computing)",
+    "image": "/project-images/placeholder.svg",
+    "link": "https://github.com/arindrajit-paul/QuickRent-Rental-System",
+    "tags": ["Flask", "React", "Firebase", "Nodemon"]
+  },
+  {
+    "title": "Airflow Podcast Summary",
+    "description": "A simple data pipeline created using Airflow to download podcasts and generate their summaries.",
+    "image": "/project-images/placeholder.svg",
+    "link": "https://github.com/arindrajit-paul/airflow-podcast_summary",
+    "tags": ["Airflow", "Python", "SQLite3", "Pandas", "XMLtoDict"]
   }
 ]
