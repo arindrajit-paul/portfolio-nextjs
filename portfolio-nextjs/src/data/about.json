@@ -1,0 +1,57 @@
+{
+  "intro": "I'm a PhD candidate exploring how Hindu goddess devotion reshapes gender norms in Bangladeshi communities. My work blends devotional poetry, performance, and embodied spirituality through postcolonial and gendered lenses.",
+  "academicBackground": [
+    {
+      "title": "PhD in South Asian Studies",
+      "institution": "[University Name]",
+      "location": "[City, Country]",
+      "startYear": "20XX",
+      "endYear": "Present",
+      "note": "Dissertation: “Redefining Gender Norms through Hindu Goddess Altars in the Bangladeshi Hindu Community.”"
+    },
+    {
+      "title": "MA in [Field]",
+      "institution": "[University Name]",
+      "location": "[City, Country]",
+      "startYear": "20XX",
+      "endYear": "20XX"
+    },
+    {
+      "title": "BA in [Field]",
+      "institution": "[University Name]",
+      "location": "[City, Country]",
+      "startYear": "20XX",
+      "endYear": "20XX"
+    }
+  ],
+  "researchInterests": [
+    "Devotional poetry and its aesthetic/emotional power",
+    "Gender and religious identity in Bengali culture",
+    "Kazi Nazrul Islam’s contributions to religious pluralism",
+    "Shyama Sangeet and Goddess Kālī traditions",
+    "Embodiment and performativity in spiritual practice"
+  ],
+  "skills": {
+    "prettyGoodAt": [
+      {
+        "label": "Languages",
+        "items": ["TypeScript", "JavaScript", "Python"]
+      },
+      {
+        "label": "Frameworks & Libraries",
+        "items": ["Next.js", "Tailwind CSS", "React", "Framer Motion"]
+      }
+    ],
+    "gettingThere": [
+      {
+        "label": "Backend & DevOps",
+        "items": ["Node.js", "Express", "Docker", "Vercel CLI"]
+      },
+      {
+        "label": "Testing & CI",
+        "items": ["Jest", "Playwright", "GitHub Actions"]
+      }
+    ]
+  },
+  "personalTouch": "Outside of research, I enjoy collecting devotional music, learning about ritual aesthetics, and building digital tools that support community storytelling. I'm passionate about blending tradition with modern platforms to create new possibilities for cultural memory and expression."
+}

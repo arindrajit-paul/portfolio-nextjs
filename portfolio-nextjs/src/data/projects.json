@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "A personal portfolio built with Next.js, Tailwind CSS, and TypeScript.",
+    "image": "/project-images/placeholder.svg",
+    "link": "/projects/portfolio",
+    "tags": ["TypeScript", "Next.js", "Frontend"]
+  },
+  {
+    "title": "Academic Writing Archive",
+    "description": "A digital collection of research and papers on devotional poetry and gender.",
+    "image": "/project-images/placeholder.svg",
+    "link": "/projects/academic-archive",
+    "tags": ["Academic", "Poetry", "Archive"]
+  },
+  {
+    "title": "Goddess Iconography Viewer",
+    "description": "An experimental visual tool for exploring representations of Hindu goddesses.",
+    "image": "/project-images/placeholder.svg",
+    "link": "/projects/goddess-iconography",
+    "tags": ["Research", "Visualization", "React"]
+  }
+]
