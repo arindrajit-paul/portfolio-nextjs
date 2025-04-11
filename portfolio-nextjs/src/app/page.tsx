@@ -8,10 +8,10 @@ export default function HomePage() {
     <section className="min-h-[75vh] flex flex-col items-center justify-center text-center px-4">
       <div className="space-y-6 max-w-2xl">
         <h1 className="text-4xl sm:text-5xl font-bold text-gray-900">
-          Hi, I'm Arindrajit 👋
+          Hi, I&apos;m Arindrajit 👋
         </h1>
         <p className="text-lg text-gray-700">
-          I'm a computer science graduate student passionate about machine
+          I&apos;m a computer science graduate student passionate about machine
           learning, public health forecasting, and ethical AI systems. I build
           models, analyze data, and love turning complex problems into elegant
           solutions.

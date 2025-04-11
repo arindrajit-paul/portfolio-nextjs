@@ -16,7 +16,7 @@ export default function ContactPage() {
   return (
     <section className="max-w-3xl mx-auto px-4 py-12 space-y-10">
       <div>
-        <h1 className="text-3xl font-bold text-gray-900">Let's Connect</h1>
+        <h1 className="text-3xl font-bold text-gray-900">Let&apos;s Connect</h1>
         <p className="mt-4 text-gray-700 text-lg">
           Whether you’re interested in working together, want to chat about
           research, or just want to say hi — I’d love to hear from you. The best
