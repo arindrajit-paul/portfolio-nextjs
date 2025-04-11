@@ -7,11 +7,11 @@ export const metadata = {
   description: "How to get in touch with me.",
 };
 
-// export default function ContactPage() {
-//   const handleEmailClick = () => {
-//     window.location.href =
-//       "mailto:" + "arindrajit.paul.careers" + "@hotmail.com";
-//   };
+export default function ContactPage() {
+  const handleEmailClick = () => {
+    window.location.href =
+      "mailto:" + "arindrajit.paul.careers" + "@hotmail.com";
+  };
 
   return (
     <section className="max-w-3xl mx-auto px-4 py-12 space-y-10">
@@ -27,12 +27,12 @@ export const metadata = {
       <div className="space-y-4 text-gray-700 text-base">
         <p className="flex items-center gap-2">
           <FaEnvelope className="text-gray-500" />
-          {/* <button
+          <button
             onClick={handleEmailClick}
             className="text-blue-600 hover:underline"
-          > */}
-          firstname.lastname.careers [at] hotmail.com
-          {/* </button> */}
+          >
+            firstname.lastname.careers [at] hotmail.com
+          </button>
         </p>
 
         <p className="flex items-center gap-2">
