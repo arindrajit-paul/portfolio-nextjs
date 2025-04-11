@@ -1,0 +1,22 @@
+{
+  "intro": [
+    "My research interests broadly lie in machine learning approaches that extend healthcare and sustainability. I am particularly interested in building efficient and novel models to improve disease diagnostics and prediction. As AI becomes more powerful, it’s critical that we develop tools that aren’t just accurate — but also accessible. In many parts of the world, especially in low-resource regions, access to high-end diagnostic tools or computational infrastructure is limited. This is where lightweight, cost-effective AI models can make a transformative impact. My work is driven by the belief that machine learning should serve global communities — not just those who can afford it. By focusing on efficiency, interpretability, and deployability, I aim to design systems that empower healthcare workers and public health systems everywhere, not just in well-funded labs or hospitals.",
+    "You can view my full list of publications on my Google Scholar profile."
+  ],
+  "publications": [
+    {
+      "title": "Automated Wound Segmentation using Attention Mechanism based on Enhanced MobileNetV2",
+      "venue": "IEEE RAAICON 2024, Dhaka, Bangladesh",
+      "date": "2024",
+      "doi": "10.1109/RAAICON64172.2024.10928370",
+      "link": "https://doi.org/10.1109/RAAICON64172.2024.10928370"
+    },
+    {
+      "title": "Artificial Intelligence (AI) for Environmental Sustainability: A Concise Review of Technology Innovations in Energy, Transportation, Biodiversity, and Water Management",
+      "venue": "Journal of Technology Innovations and Energy",
+      "date": "2024",
+      "doi": "10.56556/jtie.v3i2.953",
+      "link": "https://doi.org/10.56556/jtie.v3i2.953"
+    }
+  ]
+}
